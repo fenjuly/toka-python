@@ -5,7 +5,7 @@
 
 ### A handy tool to generate common files in command line
 
-This is python version related to this project[https://github.com/aprilorange/toka](https://github.com/aprilorange/toka).
+This is python version related to this project [https://github.com/aprilorange/toka](https://github.com/aprilorange/toka).
 
 ```bash
 pip install toka 
