@@ -11,7 +11,6 @@ import  pkgutil
 def main():
     args = sys.argv
     args_len = len(args)
-    script_path = sys.path[0]
     current_path = os.getcwd()
 
     licenses = {'apache-2.0':'Apache-2.0.txt',
